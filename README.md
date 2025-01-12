@@ -67,11 +67,6 @@ I am an active contributor to the open-source community! Some highlights include
 
 ---
 
-## 📈 GitHub Stats
-![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
----
-
 ## 📫 Let's Connect!
 - 🌐 [LinkedIn](https://www.linkedin.com/in/omkar-podey)
 - 📧 Email: omkar.podey@example.com
