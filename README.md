@@ -23,7 +23,6 @@ Welcome to my GitHub profile! I am a passionate **Software Engineer** and a **Gr
 - 🏆 **Achievements**:
   - Recognized as one of the **Top 5 Drupal Contributors in India**
   - Published research paper: *"Smart Surveillance and Tracking System using ResNet and Tesseract-OCR"* (2021 IEEE)
-  - Tech Head of PICT ACM Student Chapter (2018-2019), awarded "Best Chapter in India" for two consecutive years
   - Open-source maintainer for Drupal's Automatic Updates and Paragraph Migration modules
 
 ---
