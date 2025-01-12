@@ -35,8 +35,8 @@ Welcome to my GitHub profile! I am a passionate **Software Engineer** and a **Gr
 - Designed and built an **Automatic Updates system** for Drupal used by over **350k+ sites**, ensuring seamless updates with robust architectures and containerized Composer operations.  
 - Developed modular REST APIs for the **Project Browser**, serving as a module store for over **50k+ modules**.  
 - Solved **92+ issues** using Test-Driven Development (TDD), implemented fail-safes and validators to enhance security and fault tolerance.  
-- Contributed to accessibility improvements by resolving **18+ UX issues**, collaborating with SMEs and accessibility reviewers.  
-- Mentored an associate engineer who was promoted to Software Engineer within a year.
+- Contributed to accessibility improvements by resolving **18+ UX issues**, collaborating with SMEs and accessibility reviewers.
+
 
 ### **Associate Software Engineer @ Acquia (Drupal Acceleration Team)**  
 *Jun 2021 – Nov 2022 | Pune, India*  
