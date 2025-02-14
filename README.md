@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile! 👋
 
-I am a **Software Engineer** and a **Graduate Student in Computer Science** at San Jose State University, with expertise in backend development, distributed computing, and open-source contributions. I enjoy solving challenging problems and collaborating with the developer community.
+I am a **Software Engineer** with 3 years of experience and a **Graduate Student in Computer Science** at San Jose State University, with expertise in backend development, distributed computing, and open-source contributions. I enjoy solving challenging problems and collaborating with the developer community.
 
 ---
 
